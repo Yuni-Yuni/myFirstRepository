@@ -10,6 +10,7 @@ main()
     scanf("%d", &b);
     printf("\nSumma = %d .", a+b);
     printf("\nRaznost = %d .", a-b);
+    printf("\nProizvedeniye = %d .", a*b);
 	printf("\nDiv = %d .", a/b);
     return 0;
 
