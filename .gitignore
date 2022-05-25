@@ -1,2 +1,6 @@
 /*.exe
 /*.o
+/RepoA/*.exe
+/RepoA/*.o
+/RepoB/*.exe
+/RepoB/*.o
