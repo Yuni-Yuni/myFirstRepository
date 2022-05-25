@@ -7,6 +7,7 @@ main()
     scanf("%d", &a);
     printf("\nEnter the second number: ");
     scanf("%d", &b);
+    printf("\n %d + %d = %d",a,b,a+b);
     return 0;
 
 }
